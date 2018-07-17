@@ -11,7 +11,7 @@ end
 get '/hometown' do 
 "My hometown is_"
 end 
-get 'favortie-song' do 
-  "My favorite song is__"
+get 'favorite-song' do 
+  "My favorite song is_"
 end 
 end
