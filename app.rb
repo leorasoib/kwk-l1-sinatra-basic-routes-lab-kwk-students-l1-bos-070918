@@ -6,7 +6,7 @@ get '/' do
   "Hi"
 end 
 get '/name' do 
-"My name is_"
+"My name is "
 end 
 get '/hometown' do 
 "My hometown is_"
